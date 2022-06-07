@@ -1,0 +1,5 @@
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 4\Programm\Test\Test\obj\Debug\net6.0\Test.csproj.AssemblyReference.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 4\Programm\Test\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 4\Programm\Test\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 4\Programm\Test\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 4\Programm\Test\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
