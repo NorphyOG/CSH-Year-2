@@ -125,10 +125,10 @@ public class Rezepts
         return gesKcal / PersonenAnzahl;
     }
 
-    public static bool operator + (Rezepts rezepts, Zutat zutat)
+    public static Zutat operator + (Rezepts rezepts, Zutat zutat)
     {
         rezepts._arrayListZutat.Add(zutat);
-        return true;
+        return zutat;
     }
 
     public static bool operator < (Rezepts rezepts1, Rezepts rezepts2)
