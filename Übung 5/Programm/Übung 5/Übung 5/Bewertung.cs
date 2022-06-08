@@ -16,6 +16,7 @@ public class Bewertung
                 if (value <= 5)
                 {
                     stern = value;
+                    setSternTxt(stern);
                 }
                 else
                 {
@@ -29,6 +30,12 @@ public class Bewertung
         }
     }
 
+    public Bewertung(int stern, string kommentar)
+    {
+        this.stern = stern;
+        this.kommentar = kommentar;
+    }
+
     private string kommentar;
     public string Kommentar
     {
@@ -39,6 +46,25 @@ public class Bewertung
         set
         {
             kommentar = value;
+        }
+    }
+
+    private string outputStern;
+    public string OutputStern
+    {
+        get
+        {
+            setSternTxt(stern);
+            return outputStern;
+        }
+    }
+
+    private void setSternTxt(int stern)
+    {
+        outputStern = "";
+        for (int i = 0; i < stern; i++)
+        {
+            outputStern += "*";
         }
     }
 }

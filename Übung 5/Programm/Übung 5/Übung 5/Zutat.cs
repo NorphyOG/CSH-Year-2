@@ -32,5 +32,20 @@ public class Zutat
         }
     }
     
-    
+    private int _mengeInMg;
+    public int MengeInMg
+    {
+        get
+        {
+            return _mengeInMg;
+        }
+        
+    }
+
+    public Zutat(string name, int kcal, int mengeInMg)
+    {
+        this.name = name;
+        this.kcal = kcal;
+        this._mengeInMg = mengeInMg;
+    }
 }
