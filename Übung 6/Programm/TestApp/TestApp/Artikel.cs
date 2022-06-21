@@ -41,4 +41,9 @@ public class Artikel
         Einheit = einheit;
         Menge = menge;
     }
+
+    public string Anzeigen()
+    {
+        return Menge + " " + Einheit + " " + Name;
+    }
 }
