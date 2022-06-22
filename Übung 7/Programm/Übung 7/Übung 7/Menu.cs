@@ -68,6 +68,7 @@ public class Menu
                                     try
                                     {
                                         klasse.addFehlzeiten(tempKennung, tempFehlzeit);
+                                        klasse.UpdateState();
                                     }
                                     catch (Exception e)
                                     {
@@ -113,7 +114,7 @@ public class Menu
                                     try
                                     {
                                         input = Console.ReadLine();
-                                        tempFehlzeit = Convert.ToInt32(input);
+                                        tempUFehlzeit = Convert.ToInt32(input);
                                     }
                                     catch (Exception e)
                                     {
@@ -126,6 +127,7 @@ public class Menu
                                     try
                                     {
                                         klasse.addUnentschuldigtenFehlzeiten(tempKennung2, tempUFehlzeit);
+                                        klasse.UpdateState();
                                     }
                                     catch (Exception e)
                                     {

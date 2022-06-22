@@ -27,12 +27,12 @@ public class Klasse
     {
         string r = "";
 
-        var header = String.Format("{0,-12}{1,-12}{2,-12}{3,-14}{4,-27}\n",
+        var header = String.Format("{0,-15}{1,-15}{2,-12}{3,-14}{4,-27}\n",
             "Vorname", "Nachname", "Kennung", "Fehlstunden", "Unentschuldigte Fehlstunden");
         r += header + "\n";
         foreach (var vSchueler in _saveState.SchuelerListe)
         {
-            var output = String.Format("{0,-12}{1,-12}{2,-12}{3,-14}{4,-27}",
+            var output = String.Format("{0,-15}{1,-15}{2,-12}{3,-14}{4,-27}",
                 vSchueler.Vorname, vSchueler.Nachname, vSchueler.Kennung, vSchueler.Fehlzeiten, vSchueler.UnentschuldigtenFehlzeiten);
             r += output + "\n";
         }
@@ -47,10 +47,6 @@ public class Klasse
             {
                 vSchueler.Fehlzeiten = vSchueler.Fehlzeiten + fehlzeit;
                 return true;
-            }
-            else
-            {
-                throw new Exception("Kein Schüler mit dieser Kennung!");
             }
         }
 
@@ -68,10 +64,6 @@ public class Klasse
                     vSchueler.UnentschuldigtenFehlzeiten = vSchueler.UnentschuldigtenFehlzeiten + uFehlzeit;   
                 }
                 return true;
-            }
-            else
-            {
-                throw new Exception("Kein Schüler mit dieser Kennung!");
             }
         }
 
