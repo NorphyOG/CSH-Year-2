@@ -1,3 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Hello, World!");
+
+using Übung_7;
+
+SaveState saveState = new SaveState();
+
+saveState.Read();
+
