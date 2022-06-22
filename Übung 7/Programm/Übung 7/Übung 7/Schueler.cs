@@ -10,32 +10,42 @@ public class Schueler
 
     public string Vorname
     {
-        get;
-        set;
+        get
+        {
+            return _vorname;
+        }
     }
 
     public string Nachname
     {
-        get;
-        set;
+        get
+        {
+            return _nachname;
+        }
     }
 
     public string Kennung
     {
-        get;
-        set;
+        get
+        {
+            return _kennung;
+        }
     }
 
     public int Fehlzeiten
     {
-        get;
-        set;
+        get
+        {
+            return _fehlzeiten;
+        }
     }
 
     public int UnentschuldigtenFehlzeiten
     {
-        get;
-        set;
+        get
+        {
+            return _unentschuldigtenFehlzeiten;
+        }
     }
 
     public Schueler(string vorname, string nachname, string kennung, int fehlzeiten, int unentschuldigtenFehlzeiten)
