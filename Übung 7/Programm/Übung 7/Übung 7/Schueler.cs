@@ -10,42 +10,32 @@ public class Schueler
 
     public string Vorname
     {
-        get
-        {
-            return _vorname;
-        }
+        get => _vorname;
+        set => _vorname = value ?? throw new ArgumentNullException(nameof(value));
     }
 
     public string Nachname
     {
-        get
-        {
-            return _nachname;
-        }
+        get => _nachname;
+        set => _nachname = value ?? throw new ArgumentNullException(nameof(value));
     }
 
     public string Kennung
     {
-        get
-        {
-            return _kennung;
-        }
+        get => _kennung;
+        set => _kennung = value ?? throw new ArgumentNullException(nameof(value));
     }
 
     public int Fehlzeiten
     {
-        get
-        {
-            return _fehlzeiten;
-        }
+        get => _fehlzeiten;
+        set => _fehlzeiten = value;
     }
 
     public int UnentschuldigtenFehlzeiten
     {
-        get
-        {
-            return _unentschuldigtenFehlzeiten;
-        }
+        get => _unentschuldigtenFehlzeiten;
+        set => _unentschuldigtenFehlzeiten = value;
     }
 
     public Schueler(string vorname, string nachname, string kennung, int fehlzeiten, int unentschuldigtenFehlzeiten)

@@ -24,8 +24,8 @@ Alexandra;Soglassova;bbm3h20mso;0;0
 Adrian;Wahlhäuser;bbm3h20awa;0;0
 Jerome;Weber;bbm3h20awe;0;0
 David;Werner;bbm3h20mwe;0;0
-
-
-
-
-
+none;none;none;0;0
+none;none;none;0;0
+none;none;none;0;0
+none;none;none;0;0
+none;none;none;0;0

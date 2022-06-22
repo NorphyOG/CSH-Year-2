@@ -1,10 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
 using Übung_7;
 
-SaveState saveState = new SaveState();
+Menu menu = new Menu();
 
-saveState.Read();
-saveState.Write();
+menu.Start();
 

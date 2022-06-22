@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b2d2288-a8b5-473b-8163-31f3a795ff73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Übung 7/Klasse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/.idea/.idea.WinFormsApp1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/.idea/.idea.WinFormsApp1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/.idea/.idea.WinFormsApp1/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/.idea/.idea.WinFormsApp1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/WinFormsApp1/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/WinFormsApp1/obj/WinFormsApp1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/WinFormsApp1/obj/WinFormsApp1.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/WinFormsApp1/obj/WinFormsApp1.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/WinFormsApp1/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/WinFormsApp1/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/WinFormsApp1/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinFormsApp1/WinFormsApp1/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Übung 7/Menu.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Übung 7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Übung 7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Übung 7/Klasse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Übung 7/Klasse.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Übung 7/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Übung 7/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Übung 7/SaveState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Übung 7/SaveState.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Übung 7/Schueler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Übung 7/Schueler.cs" afterDir="false" />
@@ -23,6 +42,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/df71358f7b7337a1eee3a65abe6d678dd9a065e256b8cc3fd44a2949754/Object.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655815205505</updated>
       <workItem from="1655815210107" duration="4598000" />
-      <workItem from="1655883706809" duration="5578000" />
+      <workItem from="1655883706809" duration="18547000" />
     </task>
     <servers />
   </component>
@@ -96,5 +118,76 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Übung 7/Menu.cs</url>
+          <line>6</line>
+          <properties documentPath="C:\Users\jerom\OneDrive - bib &amp; FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Übung 7\Übung 7\Menu.cs" initialLine="6" containingFunctionPresentation="method 'Start'">
+            <startOffsets>
+              <option value="69" />
+            </startOffsets>
+            <endOffsets>
+              <option value="70" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Übung 7/Menu.cs</url>
+          <line>69</line>
+          <properties documentPath="C:\Users\jerom\OneDrive - bib &amp; FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Übung 7\Übung 7\Menu.cs" initialLine="69" containingFunctionPresentation="method 'Start'">
+            <startOffsets>
+              <option value="2704" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2752" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Übung 7/Menu.cs</url>
+          <line>42</line>
+          <properties documentPath="C:\Users\jerom\OneDrive - bib &amp; FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Übung 7\Übung 7\Menu.cs" initialLine="42" containingFunctionPresentation="method 'Start'">
+            <startOffsets>
+              <option value="1408" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1435" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Übung 7/Menu.cs</url>
+          <line>25</line>
+          <properties documentPath="C:\Users\jerom\OneDrive - bib &amp; FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Übung 7\Übung 7\Menu.cs" initialLine="25" containingFunctionPresentation="method 'Start'">
+            <startOffsets>
+              <option value="615" />
+            </startOffsets>
+            <endOffsets>
+              <option value="629" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Übung 7/Menu.cs</url>
+          <line>16</line>
+          <properties documentPath="C:\Users\jerom\OneDrive - bib &amp; FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Übung 7\Übung 7\Menu.cs" initialLine="16" containingFunctionPresentation="method 'Start'">
+            <startOffsets>
+              <option value="239" />
+            </startOffsets>
+            <endOffsets>
+              <option value="250" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
