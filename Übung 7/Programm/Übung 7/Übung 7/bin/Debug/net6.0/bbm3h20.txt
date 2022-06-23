@@ -22,7 +22,7 @@ Schmitz;Yannic;bbm3h20msc;0;0
 Schulz;Dustin;bbm3h20asc;0;0
 Soglassova;Alexandra;bbm3h20mso;0;0
 Wahlhäuser;Adrian;bbm3h20awa;312;120
-Weber;Jerome;bbm3h20awe;31;3
+Weber;Jerome;bbm3h20awe;43;15
 Werner;David;bbm3h20mwe;0;0
 none;none;none;0;0
 none;none;none;0;0

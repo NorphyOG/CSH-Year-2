@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b2d2288-a8b5-473b-8163-31f3a795ff73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Übung 7.7z" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Übung 7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Übung 7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Übung 7/Klasse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Übung 7/Klasse.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Übung 7/Menu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Übung 7/Menu.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Übung 7/bin/Debug/net6.0/bbm3h20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Übung 7/bin/Debug/net6.0/bbm3h20.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Übung 7/bin/Debug/net6.0/Übung 7.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Übung 7/bin/Debug/net6.0/Übung 7.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Übung 7/bin/Debug/net6.0/Übung 7.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Übung 7/bin/Debug/net6.0/Übung 7.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Übung 7/obj/Debug/net6.0/Übung 7.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Übung 7/obj/Debug/net6.0/Übung 7.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Übung 7/obj/Debug/net6.0/Übung 7.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Übung 7/obj/Debug/net6.0/Übung 7.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,26 +14,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/df71358f7b7337a1eee3a65abe6d678dd9a065e256b8cc3fd44a2949754/Object.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -62,6 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "configurable.group.build",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -96,6 +70,7 @@
       <workItem from="1655815210107" duration="4598000" />
       <workItem from="1655883706809" duration="18547000" />
       <workItem from="1655905986571" duration="1596000" />
+      <workItem from="1655925102440" duration="821000" />
     </task>
     <servers />
   </component>
