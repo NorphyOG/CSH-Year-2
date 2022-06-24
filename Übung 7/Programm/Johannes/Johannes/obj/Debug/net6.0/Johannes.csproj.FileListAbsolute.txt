@@ -1,0 +1,15 @@
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\bin\Debug\net6.0\Johannes.exe
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\bin\Debug\net6.0\Johannes.deps.json
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\bin\Debug\net6.0\Johannes.runtimeconfig.json
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\bin\Debug\net6.0\Johannes.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\bin\Debug\net6.0\Johannes.pdb
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\obj\Debug\net6.0\Johannes.csproj.AssemblyReference.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\obj\Debug\net6.0\Johannes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\obj\Debug\net6.0\Johannes.AssemblyInfoInputs.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\obj\Debug\net6.0\Johannes.AssemblyInfo.cs
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\obj\Debug\net6.0\Johannes.csproj.CoreCompileInputs.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\obj\Debug\net6.0\Johannes.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\obj\Debug\net6.0\refint\Johannes.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\obj\Debug\net6.0\Johannes.pdb
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\obj\Debug\net6.0\Johannes.genruntimeconfig.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 7\Programm\Johannes\Johannes\obj\Debug\net6.0\ref\Johannes.dll
