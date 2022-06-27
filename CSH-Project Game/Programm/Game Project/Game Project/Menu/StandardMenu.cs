@@ -1,5 +1,6 @@
 ﻿using Game_Project.Character;
 using Game_Project.Character.Klassen;
+using Game_Project.Kampfsystem;
 
 namespace Game_Project.Menu;
 
@@ -54,7 +55,7 @@ public class StandardMenu
     
     internal string XpBar(StandardKlasse standardKlasse)
     {
-        string r = "Error";
+        string r = "████████████████████████████████████████ 100%";
         
         double procent = (standardKlasse.AktuelleErfahrung / standardKlasse.MaxErfahrung) * 100;
 
@@ -109,7 +110,7 @@ public class StandardMenu
         return num.ToString("#,0");
     }
     
-    public void sMenu0(StandardKlasse standardKlasse, Klassenauswahl klassenauswahl, CreateCharacter createCharacter)
+    public void sMenu0(StandardKlasse standardKlasse, Klassenauswahl klassenauswahl, CreateCharacter createCharacter, KampfMenu kampfMenu, SaveState saveState, Skills skills, Kampf kampf)
     {
         
         string[] lineStrings = new string[14];
@@ -162,10 +163,10 @@ public class StandardMenu
             switch (input)
             {
                 case "1":
-                    //TODO
+                    kampfMenu.KpfMenu0(standardKlasse, createCharacter, klassenauswahl, saveState, skills, kampf);
                     break;
                 case "kampf":
-                    //TODO
+                    kampfMenu.KpfMenu0(standardKlasse, createCharacter, klassenauswahl, saveState, skills, kampf);
                     break;
                 case "2":
                     //TODO
@@ -174,10 +175,10 @@ public class StandardMenu
                     //TODO
                     break;
                 case "3":
-                    klassenauswahl.KaMenu0(createCharacter, klassenauswahl);
+                    klassenauswahl.KaMenu0(createCharacter, klassenauswahl, kampfMenu, saveState, skills, kampf);
                     break;
                 case "klasse":
-                    klassenauswahl.KaMenu0(createCharacter, klassenauswahl);
+                    klassenauswahl.KaMenu0(createCharacter, klassenauswahl, kampfMenu, saveState, skills, kampf);
                     break;
                 default:
                     Console.WriteLine("\n≡");

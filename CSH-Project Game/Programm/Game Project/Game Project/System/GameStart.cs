@@ -1,18 +1,24 @@
 ﻿using Game_Project.Character;
 using Game_Project.Character.Enemy;
 using Game_Project.Character.Klassen;
+using Game_Project.Kampfsystem;
 using Game_Project.Menu;
 
 namespace Game_Project;
 
 public class GameStart
 {
+    //System
     private SaveState _saveState = new SaveState();
     private CreateCharacter _createCharacter;
-    
+    private Kampf _kampf = new Kampf();
+    private Skills _skills = new Skills();
+
     //Menu
-    StandardMenu _standardMenu = new Klassenauswahl();
-    Klassenauswahl _klassenauswahl = new Klassenauswahl();
+    private StandardMenu _standardMenu = new Klassenauswahl();
+    private Klassenauswahl _klassenauswahl = new Klassenauswahl();
+    private KampfMenu _kampfMenu = new KampfMenu();
+
 
     internal void Start()
     {
@@ -24,9 +30,8 @@ public class GameStart
         {
             CreateDefault();
         }
-
-        _klassenauswahl.KaMenu0(_createCharacter, _klassenauswahl);
         
+        _klassenauswahl.KaMenu0(_createCharacter, _klassenauswahl, _kampfMenu, _saveState, _skills, _kampf);
     }
 
     private void CreateDefault()
@@ -49,14 +54,7 @@ public class GameStart
             new Boss("Cyclope Boss", 1, 200, 1000, 1000)
             );
 
-        try
-        {
-            _saveState.Save(_createCharacter);
-        }
-        catch (Exception e)
-        {
-            //TODO
-        }
+        _saveState.Save(_createCharacter);
     }
     
     

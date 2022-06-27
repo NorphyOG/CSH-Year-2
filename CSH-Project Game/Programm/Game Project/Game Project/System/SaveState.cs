@@ -201,6 +201,8 @@ public class SaveState
 
         }
 
+        streamReader.Close();
+        
         return new CreateCharacter(_bogenSchuetze, _ritter, _megier, _antonio, _adrian, _johannes,
             _goblin, _goblinMiniBoss, _goblinBoss, _oger, _ogerMiniBoss, _ogerBoss, _cyclope, _cyclopeMiniBoss,
             _cyclopeBoss);

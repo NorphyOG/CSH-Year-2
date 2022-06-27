@@ -1,11 +1,12 @@
 ﻿using Game_Project.Character;
+using Game_Project.Kampfsystem;
 
 namespace Game_Project.Menu;
 
 public class Klassenauswahl : StandardMenu
 {
     
-    public void KaMenu0(CreateCharacter createCharacter, Klassenauswahl klassenauswahl)
+    public void KaMenu0(CreateCharacter createCharacter, Klassenauswahl klassenauswahl, KampfMenu kampfMenu, SaveState saveState, Skills skills ,Kampf kampf)
     {
         string[] lineStrings = new string[15];
 
@@ -68,22 +69,22 @@ public class Klassenauswahl : StandardMenu
             switch (input)
             {
                 case "1":
-                    sMenu0(createCharacter.BogenSchuetze, klassenauswahl, createCharacter);
+                    sMenu0(createCharacter.BogenSchuetze, klassenauswahl, createCharacter, kampfMenu, saveState, skills, kampf);
                     break;
                 case "bogi":
-                    sMenu0(createCharacter.BogenSchuetze, klassenauswahl, createCharacter);
+                    sMenu0(createCharacter.BogenSchuetze, klassenauswahl, createCharacter, kampfMenu, saveState, skills, kampf);
                     break;
                 case "2":
-                    sMenu0(createCharacter.Ritter, klassenauswahl, createCharacter);
+                    sMenu0(createCharacter.Ritter, klassenauswahl, createCharacter, kampfMenu, saveState, skills, kampf);
                     break;
                 case "ritter":
-                    sMenu0(createCharacter.Ritter, klassenauswahl, createCharacter);
+                    sMenu0(createCharacter.Ritter, klassenauswahl, createCharacter, kampfMenu, saveState, skills, kampf);
                     break;
                 case "3":
-                    sMenu0(createCharacter.Megier, klassenauswahl, createCharacter);
+                    sMenu0(createCharacter.Megier, klassenauswahl, createCharacter, kampfMenu, saveState, skills, kampf);
                     break;
                 case "mage":
-                    sMenu0(createCharacter.Megier, klassenauswahl, createCharacter);
+                    sMenu0(createCharacter.Megier, klassenauswahl, createCharacter, kampfMenu, saveState, skills, kampf);
                     break;
                 default:
                     Console.WriteLine("\n≡");
