@@ -17,9 +17,9 @@ public class CreateCharacter
     private MiniBoss _goblinMiniBoss;
     private Boss _goblinBoss;
     
-    private StandardEnemy _oga;
-    private MiniBoss _ogaMiniBoss;
-    private Boss _ogaBoss;
+    private StandardEnemy _oger;
+    private MiniBoss _ogerMiniBoss;
+    private Boss _ogerBoss;
     
     private StandardEnemy _cyclope;
     private MiniBoss _cyclopeMiniBoss;
@@ -80,22 +80,22 @@ public class CreateCharacter
         set => _goblinBoss = value ?? throw new ArgumentNullException(nameof(value));
     }
 
-    public StandardEnemy Oga
+    public StandardEnemy Oger
     {
-        get => _oga;
-        set => _oga = value ?? throw new ArgumentNullException(nameof(value));
+        get => _oger;
+        set => _oger = value ?? throw new ArgumentNullException(nameof(value));
     }
 
-    public MiniBoss OgaMiniBoss
+    public MiniBoss OgerMiniBoss
     {
-        get => _ogaMiniBoss;
-        set => _ogaMiniBoss = value ?? throw new ArgumentNullException(nameof(value));
+        get => _ogerMiniBoss;
+        set => _ogerMiniBoss = value ?? throw new ArgumentNullException(nameof(value));
     }
 
-    public Boss OgaBoss
+    public Boss OgerBoss
     {
-        get => _ogaBoss;
-        set => _ogaBoss = value ?? throw new ArgumentNullException(nameof(value));
+        get => _ogerBoss;
+        set => _ogerBoss = value ?? throw new ArgumentNullException(nameof(value));
     }
 
     public StandardEnemy Cyclope
@@ -116,7 +116,7 @@ public class CreateCharacter
         set => _cyclopeBoss = value ?? throw new ArgumentNullException(nameof(value));
     }
 
-    public CreateCharacter(StandardKlasse bogenSchuetze, StandardKlasse ritter, StandardKlasse megier, Begleiter antonio, Begleiter adrian, Begleiter johannes, StandardEnemy goblin, MiniBoss goblinMiniBoss, Boss goblinBoss, StandardEnemy oga, MiniBoss ogaMiniBoss, Boss ogaBoss, StandardEnemy cyclope, MiniBoss cyclopeMiniBoss, Boss cyclopeBoss)
+    public CreateCharacter(StandardKlasse bogenSchuetze, StandardKlasse ritter, StandardKlasse megier, Begleiter antonio, Begleiter adrian, Begleiter johannes, StandardEnemy goblin, MiniBoss goblinMiniBoss, Boss goblinBoss, StandardEnemy oger, MiniBoss ogerMiniBoss, Boss ogerBoss, StandardEnemy cyclope, MiniBoss cyclopeMiniBoss, Boss cyclopeBoss)
     {
         _bogenSchuetze = bogenSchuetze;
         _ritter = ritter;
@@ -127,9 +127,9 @@ public class CreateCharacter
         _goblin = goblin;
         _goblinMiniBoss = goblinMiniBoss;
         _goblinBoss = goblinBoss;
-        _oga = oga;
-        _ogaMiniBoss = ogaMiniBoss;
-        _ogaBoss = ogaBoss;
+        _oger = oger;
+        _ogerMiniBoss = ogerMiniBoss;
+        _ogerBoss = ogerBoss;
         _cyclope = cyclope;
         _cyclopeMiniBoss = cyclopeMiniBoss;
         _cyclopeBoss = cyclopeBoss;

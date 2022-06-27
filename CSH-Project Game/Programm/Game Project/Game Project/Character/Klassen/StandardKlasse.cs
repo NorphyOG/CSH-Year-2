@@ -4,7 +4,7 @@ public class StandardKlasse
 {
     private string _characterName;
     private ulong _level;
-    private double _erfahrung;
+    private double _maxMaxErfahrung;
     private double _aktuelleErfahrung;
     private ulong _schaden;
     private ulong _maxLeben;
@@ -25,10 +25,10 @@ public class StandardKlasse
         set => _level = value;
     }
 
-    public double Erfahrung
+    public double MaxErfahrung
     {
-        get => _erfahrung;
-        set => _erfahrung = value;
+        get => _maxMaxErfahrung;
+        set => _maxMaxErfahrung = value;
     }
 
     public double AktuelleErfahrung
@@ -73,11 +73,11 @@ public class StandardKlasse
         set => _skillPoints = value;
     }
 
-    public StandardKlasse(string characterName, ulong level, double erfahrung, double aktuelleErfahrung, ulong schaden, ulong maxLeben, ulong aktuellesLeben, ulong maxActionPoints, ulong aktuelleActionPoints, ulong skillPoints)
+    public StandardKlasse(string characterName, ulong level, double maxMaxErfahrung, double aktuelleErfahrung, ulong schaden, ulong maxLeben, ulong aktuellesLeben, ulong maxActionPoints, ulong aktuelleActionPoints, ulong skillPoints)
     {
         _characterName = characterName;
         _level = level;
-        _erfahrung = erfahrung;
+        _maxMaxErfahrung = maxMaxErfahrung;
         _aktuelleErfahrung = aktuelleErfahrung;
         _schaden = schaden;
         _maxLeben = maxLeben;
@@ -89,7 +89,7 @@ public class StandardKlasse
 
     public override string ToString()
     {
-        return CharacterName + ";" + Level + ";" + Erfahrung + ";" + AktuelleErfahrung + ";" + Schaden + ";" +
+        return CharacterName + ";" + Level + ";" + MaxErfahrung + ";" + AktuelleErfahrung + ";" + Schaden + ";" +
                MaxLeben + ";" + AktuellesLeben + ";" +
                MaxActionPoints + ";" + AktuelleActionPoints + ";" + SkillPoints;
     }
