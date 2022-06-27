@@ -5,42 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b2d2288-a8b5-473b-8163-31f3a795ff73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Johannes/.idea/.idea.Johannes/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/.idea/.idea.Johannes/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/.idea/.idea.Johannes/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/.idea/.idea.Johannes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/Klasse.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/Schueler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/bin/Debug/net6.0/Johannes.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/bin/Debug/net6.0/Johannes.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/bin/Debug/net6.0/Johannes.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/bin/Debug/net6.0/Johannes.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/bin/Debug/net6.0/Johannes.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/bin/Debug/net6.0/bbm3h20 1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/ref/Johannes.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/refint/Johannes.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Johannes.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Johannes.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Johannes.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Funktionale Anforderungen.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Klassendiagramm.class.violet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/.idea/.idea.Game Project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/.idea/.idea.Game Project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/.idea/.idea.Game Project/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/.idea/.idea.Game Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/Character/CreateCharacter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/Character/Enemy/Boss.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/Character/Enemy/MiniBoss.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/Character/Enemy/StandardEnemy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/Character/Klassen/Begleiter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/Character/Klassen/StandardKlasse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/Menu/BegleiterAuswahl.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/Menu/KampfMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/Menu/KlassenAuswahl.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/Menu/StandardMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/Menu/UpgradeMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/System/GameStart.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/System/Kampfsystem/Kampf.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/System/Kampfsystem/Skills.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/System/SaveState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/System/Upgradesystem/AttributenVerwaltung.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/System/Upgradesystem/SkillTree.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/bin/Debug/net6.0/Game Project.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/bin/Debug/net6.0/Game Project.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/bin/Debug/net6.0/Game Project.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/bin/Debug/net6.0/Game Project.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/bin/Debug/net6.0/Game Project.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/bin/Debug/net6.0/save.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/Game Project.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/Game Project.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/Game Project.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/Game Project.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/Game Project.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/Game Project.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/Game Project.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/Game Project.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/Game Project.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/Game Project.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/Game Project.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/ref/Game Project.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Debug/net6.0/refint/Game Project.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Game Project.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Game Project.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/Game Project.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/Programm/Game Project/Game Project/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSH-Project Game/UseCase Diagramm.ucase.violet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Johannes/Johannes/Klasse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Johannes/Johannes/Klasse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Johannes/Johannes/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Johannes/Johannes/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Johannes/Johannes/bin/Debug/net6.0/Johannes.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Johannes/Johannes/bin/Debug/net6.0/Johannes.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Johannes/Johannes/bin/Debug/net6.0/Johannes.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Johannes/Johannes/bin/Debug/net6.0/Johannes.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Johannes/Johannes/obj/Debug/net6.0/Johannes.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Übung 7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Übung 7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Übung 7/bin/Debug/net6.0/bbm3h20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Übung 7/bin/Debug/net6.0/bbm3h20.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +129,7 @@
       <workItem from="1655905986571" duration="1596000" />
       <workItem from="1655925102440" duration="3447000" />
       <workItem from="1656060936861" duration="477000" />
+      <workItem from="1656327216460" duration="622000" />
     </task>
     <servers />
   </component>

@@ -84,10 +84,9 @@ namespace fehlzeitenVerwaltung
             foreach (Schueler SV in liste)
             {
                 
-                Console.WriteLine(SV.kennung + SV.fehlzeiten);
-                    if(SV.Equals(kennung)) {  
-                    
-                    SV.fehlzeiten = SV.fehlzeiten + fehlstunden;
+                    if(SV.Equals(kennung)) {
+
+                        SV.fehlzeiten = SV.fehlzeiten + fehlstunden;
                     }
             }
         }
@@ -98,7 +97,6 @@ namespace fehlzeitenVerwaltung
             foreach (Schueler SV in liste)
             {
 
-                Console.WriteLine(SV.kennung + SV.fehlzeiten + SV.unentschuldigteFehlzeiten);
                 if (SV.Equals(kennung))
                 {
                     if (SV.fehlzeiten <= SV.unentschuldigteFehlzeiten)

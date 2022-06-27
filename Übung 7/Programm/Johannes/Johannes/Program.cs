@@ -21,18 +21,19 @@ while (run)
         case "f":
             Console.WriteLine("Hier weden alle fehlzeiten angezeigt");
             Console.Write("Kennung..? ");
-            string kennung = Console.ReadLine();
+            string kennung1 = Console.ReadLine();
             Console.Write("Fehlstunden..? ");
-            string fehlstunden = Console.ReadLine();
-            bbm3h20amr.FehlzeitenerHoehen(kennung, Convert.ToInt32(fehlstunden));
-            bbm3h20amr.ListeInDateiSpeichern();
+            int fehlstunden = Console.Read();
+            bbm3h20amr.FehlzeitenerHoehen(kennung1, fehlstunden);
             break;
 
         case "uf":
             Console.WriteLine("Hier werden die unentschuldigten angezeigt");
-            Console.ReadLine();
-            bbm3h20amr.UnentschuldigtefehlzeitenErhoehen("", 1);
-            bbm3h20amr.ListeInDateiSpeichern();
+            Console.Write("Kennung..? ");
+            string kennung2 = Console.ReadLine();
+            Console.Write("Unent..? ");
+            int unentschuldigteFehlzeiten = Console.Read();
+            bbm3h20amr.UnentschuldigtefehlzeitenErhoehen(kennung2, unentschuldigteFehlzeiten);
             break;
         case "e":
             run = false;
