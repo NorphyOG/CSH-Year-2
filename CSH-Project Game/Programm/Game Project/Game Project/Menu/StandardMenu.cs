@@ -1,4 +1,5 @@
 ﻿using Game_Project.Character;
+using Game_Project.Character.Enemy;
 using Game_Project.Character.Klassen;
 using Game_Project.Kampfsystem;
 
@@ -113,6 +114,8 @@ public class StandardMenu
     public void sMenu0(StandardKlasse standardKlasse, Klassenauswahl klassenauswahl, CreateCharacter createCharacter, KampfMenu kampfMenu, SaveState saveState, Skills skills, Kampf kampf)
     {
         
+        Console.Clear();
+
         string[] lineStrings = new string[14];
 
         lineStrings[0] = "╔════════════════════════════════════════════════════════════{ RPG Mini Game }════════════════════════════════════════════════════════════╗";

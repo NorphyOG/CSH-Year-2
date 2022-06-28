@@ -69,7 +69,8 @@ public class SaveState
                         Convert.ToUInt64(temp1[6]),
                         Convert.ToUInt64(temp1[7]),
                         Convert.ToUInt64(temp1[8]),
-                        Convert.ToUInt64(temp1[9]));
+                        Convert.ToUInt64(temp1[9]),
+                        Convert.ToBoolean(temp1[10]));
                     break;
                 case 1:
                     _ritter = new StandardKlasse(temp1[0],
@@ -81,7 +82,8 @@ public class SaveState
                         Convert.ToUInt64(temp1[6]),
                         Convert.ToUInt64(temp1[7]),
                         Convert.ToUInt64(temp1[8]),
-                        Convert.ToUInt64(temp1[9]));
+                        Convert.ToUInt64(temp1[9]),
+                        Convert.ToBoolean(temp1[10]));
                     break;
                 case 2:
                     _megier = new StandardKlasse(temp1[0],
@@ -93,7 +95,8 @@ public class SaveState
                         Convert.ToUInt64(temp1[6]),
                         Convert.ToUInt64(temp1[7]),
                         Convert.ToUInt64(temp1[8]),
-                        Convert.ToUInt64(temp1[9]));
+                        Convert.ToUInt64(temp1[9]),
+                        Convert.ToBoolean(temp1[10]));
                     break;
                 case 3:
                     _antonio = new Begleiter(temp1[0],
@@ -105,7 +108,8 @@ public class SaveState
                         Convert.ToUInt64(temp1[6]),
                         Convert.ToUInt64(temp1[7]),
                         Convert.ToUInt64(temp1[8]),
-                        Convert.ToUInt64(temp1[9]));
+                        Convert.ToUInt64(temp1[9]),
+                        Convert.ToBoolean(temp1[10]));
                     break;
                 case 4:
                     _adrian = new Begleiter(temp1[0],
@@ -117,7 +121,8 @@ public class SaveState
                         Convert.ToUInt64(temp1[6]),
                         Convert.ToUInt64(temp1[7]),
                         Convert.ToUInt64(temp1[8]),
-                        Convert.ToUInt64(temp1[9]));
+                        Convert.ToUInt64(temp1[9]),
+                        Convert.ToBoolean(temp1[10]));
                     break;
                 case 5:
                     _johannes = new Begleiter(temp1[0],
@@ -129,7 +134,8 @@ public class SaveState
                         Convert.ToUInt64(temp1[6]),
                         Convert.ToUInt64(temp1[7]),
                         Convert.ToUInt64(temp1[8]),
-                        Convert.ToUInt64(temp1[9]));
+                        Convert.ToUInt64(temp1[9]),
+                        Convert.ToBoolean(temp1[10]));
                     break;
                 case 6:
                     _goblin = new StandardEnemy(temp1[0],

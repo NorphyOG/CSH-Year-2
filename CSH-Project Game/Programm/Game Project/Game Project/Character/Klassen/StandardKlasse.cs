@@ -12,6 +12,13 @@ public class StandardKlasse
     private ulong _maxActionPoints;
     private ulong _aktuelleActionPoints;
     private ulong _skillPoints;
+    private bool _isDead;
+
+    public bool IsDead
+    {
+        get => _isDead;
+        set => _isDead = value;
+    }
 
     public string CharacterName
     {
@@ -73,7 +80,7 @@ public class StandardKlasse
         set => _skillPoints = value;
     }
 
-    public StandardKlasse(string characterName, ulong level, double maxMaxErfahrung, double aktuelleErfahrung, ulong schaden, ulong maxLeben, ulong aktuellesLeben, ulong maxActionPoints, ulong aktuelleActionPoints, ulong skillPoints)
+    public StandardKlasse(string characterName, ulong level, double maxMaxErfahrung, double aktuelleErfahrung, ulong schaden, ulong maxLeben, ulong aktuellesLeben, ulong maxActionPoints, ulong aktuelleActionPoints, ulong skillPoints, bool isDead)
     {
         _characterName = characterName;
         _level = level;
@@ -85,12 +92,13 @@ public class StandardKlasse
         _maxActionPoints = maxActionPoints;
         _aktuelleActionPoints = aktuelleActionPoints;
         _skillPoints = skillPoints;
+        _isDead = isDead;
     }
 
     public override string ToString()
     {
         return CharacterName + ";" + Level + ";" + MaxErfahrung + ";" + AktuelleErfahrung + ";" + Schaden + ";" +
                MaxLeben + ";" + AktuellesLeben + ";" +
-               MaxActionPoints + ";" + AktuelleActionPoints + ";" + SkillPoints;
+               MaxActionPoints + ";" + AktuelleActionPoints + ";" + SkillPoints + ";" + IsDead;
     }
 }

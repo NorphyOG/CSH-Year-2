@@ -9,7 +9,8 @@ public class KampfMenu : StandardMenu
 {
     public void KpfMenu0(StandardKlasse standardKlasse, CreateCharacter createCharacter, Klassenauswahl klassenauswahl, SaveState saveState, Skills skills, Kampf kampf)
     {
-        
+        Console.Clear();
+
         string[] lineStrings = new string[18];
 
         lineStrings[0] = "╔════════════════════════════════════════════════════════════{ RPG Mini Game }════════════════════════════════════════════════════════════╗";
@@ -68,57 +69,75 @@ public class KampfMenu : StandardMenu
             switch (input)
             {
                 case "1":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.Goblin, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.Goblin, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "goblin":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.Goblin, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.Goblin, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "2":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.GoblinMiniBoss, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.GoblinMiniBoss, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "goblinmini":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.GoblinMiniBoss, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.GoblinMiniBoss, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "3":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.GoblinBoss, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.GoblinBoss, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "goblinboss":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.GoblinBoss, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.GoblinBoss, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "4":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.Oger, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.Oger, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "oger":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.Oger, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.Oger, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "5":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.OgerMiniBoss, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.OgerMiniBoss, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "ogermini":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.OgerMiniBoss, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.OgerMiniBoss, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "6":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.OgerBoss, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.OgerBoss, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "ogerboss":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.OgerBoss, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.OgerBoss, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "7":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.Cyclope, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.Cyclope, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "cyclope":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.Cyclope, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.Cyclope, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "8":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.CyclopeMiniBoss, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.CyclopeMiniBoss, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "cyclopemini":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.CyclopeMiniBoss, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.CyclopeMiniBoss, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "9":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.CyclopeBoss, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.CyclopeBoss, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "cyclopeboss":
+                    kampf.UpdateEnemy(standardKlasse, createCharacter.CyclopeBoss, createCharacter);
                     KpfMenu1(standardKlasse, createCharacter.CyclopeBoss, createCharacter, saveState, klassenauswahl, skills, kampf);
                     break;
                 case "10":
@@ -140,6 +159,7 @@ public class KampfMenu : StandardMenu
     
     public void KpfMenu1(StandardKlasse standardKlasse, StandardEnemy standardEnemy, CreateCharacter createCharacter,SaveState saveState, Klassenauswahl klassenauswahl, Skills skills, Kampf kampf)
     {
+        Console.Clear();
 
         string[] lineStrings = new string[17];
 
@@ -196,35 +216,44 @@ public class KampfMenu : StandardMenu
 
             switch (input)
             {
+                case "hack":
+                    skills.Skill1(standardKlasse, kampf, saveState, createCharacter, standardEnemy);
+                    break;
                 case "1":
-                    skills.Skill1(standardKlasse, kampf, saveState, createCharacter);
+                    //TODO Skill
+                    kampf.EnemyAttack(standardEnemy, standardKlasse, saveState, createCharacter);
                     break;
                 case "skill1":
-                    
+                    //TODO Skill
+                    kampf.EnemyAttack(standardEnemy, standardKlasse, saveState, createCharacter);
                     break;
                 case "2":
-
+                    //TODO Skill
+                    kampf.EnemyAttack(standardEnemy, standardKlasse, saveState, createCharacter);
                     break;
                 case "skill2":
-                    
+                    //TODO Skill
+                    kampf.EnemyAttack(standardEnemy, standardKlasse, saveState, createCharacter);
                     break;
                 case "3":
-                    
+                    //TODO Skill
+                    kampf.EnemyAttack(standardEnemy, standardKlasse, saveState, createCharacter);
                     break;
                 case "skill3":
-                    
+                    //TODO Skill
+                    kampf.EnemyAttack(standardEnemy, standardKlasse, saveState, createCharacter);
                     break;
                 case "4":
-
+                    skills.Heal(standardKlasse, saveState, createCharacter);
                     break;
                 case "heal":
-                    
+                    skills.Heal(standardKlasse, saveState, createCharacter);
                     break;
                 case "5":
-                    
+                    skills.ApHeal(standardKlasse, saveState, createCharacter);
                     break;
                 case "apheal":
-                    
+                    skills.ApHeal(standardKlasse, saveState, createCharacter);
                     break;
                 case "6":
                     KpfMenu0(standardKlasse, createCharacter, klassenauswahl, saveState, skills, kampf);
@@ -233,12 +262,13 @@ public class KampfMenu : StandardMenu
                     KpfMenu0(standardKlasse, createCharacter, klassenauswahl, saveState, skills, kampf);
                     break;
                 default:
-                    Console.WriteLine("\n≡");
-                    Console.Write("╚› ");
+                    //TODO
                     break;
                 
                 
             }
+            
+            KpfMenu1(standardKlasse, standardEnemy, createCharacter, saveState, klassenauswahl, skills, kampf);
         }
         
     }

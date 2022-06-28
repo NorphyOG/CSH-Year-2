@@ -37,12 +37,12 @@ public class GameStart
     private void CreateDefault()
     {
         _createCharacter = new CreateCharacter(
-            new StandardKlasse("Bogenschütze", 1, 10, 0, 1, 75, 75, 15, 15, 5),
-            new StandardKlasse("Ritter", 1, 10, 0, 1, 100, 100, 5, 5, 5),
-            new StandardKlasse("Magier", 1, 10, 0, 1,50, 50, 20, 20, 5),
-            new Begleiter("Antonio", 1, 10, 0, 1, 250, 250, 0, 0, 5),
-            new Begleiter("Adrian", 1, 10, 0, 3, 65, 65, 10, 10, 5),
-            new Begleiter("Johannes", 1, 10, 0, 2, 125, 125, 5, 5, 5),
+            new StandardKlasse("Bogenschütze", 1, 10, 0, 1, 75, 75, 15, 15, 5, false),
+            new StandardKlasse("Ritter", 1, 10, 0, 1, 100, 100, 5, 5, 5, false),
+            new StandardKlasse("Magier", 1, 10, 0, 1,50, 50, 20, 20, 5, false),
+            new Begleiter("Antonio", 1, 10, 0, 1, 250, 250, 0, 0, 5, false),
+            new Begleiter("Adrian", 1, 10, 0, 3, 65, 65, 10, 10, 5, false),
+            new Begleiter("Johannes", 1, 10, 0, 2, 125, 125, 5, 5, 5, false),
             new StandardEnemy("Goblin", 1, 8, 10, 10),
             new MiniBoss("Goblin Mini Boss", 1, 15, 75, 75),
             new Boss("Goblin Boss", 1, 35, 200, 200), 
