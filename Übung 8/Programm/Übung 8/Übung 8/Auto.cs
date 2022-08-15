@@ -2,7 +2,7 @@
 
 namespace Übung_8;
 
-public class Auto
+public class Auto : IComparable<int>, IComparable<Auto>
 {
     private string _modell;
 
@@ -54,8 +54,24 @@ public class Auto
     }
 
 
+    public int CompareTo(int other)
+    {
+        throw new NotImplementedException();
+    }
+
     public override string ToString()
     {
         return $"{nameof(Modell)}: {Modell}, {nameof(Hubraum)}: {Hubraum}, {nameof(PS)}: {PS}";
+    }
+    
+    public int CompareTo(Auto? other)
+    {
+        if (ReferenceEquals(this, other)) return 0;
+        if (ReferenceEquals(null, other)) return 1;
+        var modellComparison = string.Compare(_modell, other._modell, StringComparison.Ordinal);
+        if (modellComparison != 0) return modellComparison;
+        var hubraumComparison = _hubraum.CompareTo(other._hubraum);
+        if (hubraumComparison != 0) return hubraumComparison;
+        return _ps.CompareTo(other._ps);
     }
 }

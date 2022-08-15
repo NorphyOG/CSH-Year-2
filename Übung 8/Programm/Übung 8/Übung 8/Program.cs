@@ -26,7 +26,7 @@ Auto auto1 = new Auto("VW Lupo", 2, 120);
 Auto auto2 = new Auto("RR Phantom", 3, 680);
 Auto auto3 = new Auto("X6", 3, 565);
 Auto auto4 = new Auto("Mercedes A3", 1, 344);
-Auto auto5 = new Auto("Supra", 2, 453);
+Auto auto5 = new Auto("Aupra", 2, 453);
 Auto auto6 = new Auto("Supra", 2, 453);
 
 List<Auto> _autoList = new List<Auto>();
@@ -37,9 +37,10 @@ _autoList.Add(auto4);
 _autoList.Add(auto5);
 _autoList.Add(auto6);
 
-_autoList.Insert(6, new Auto(auto6.Modell, auto6.Hubraum * 0.1, auto6.PS));
+_autoList.Insert(5, new Auto(auto6.Modell, auto6.Hubraum * 1.1, auto6.PS));
 _autoList.RemoveAt(3);
 
+Console.WriteLine("\nNot Sort List\n");
 _autoList.ForEach(delegate(Auto auto)
 {
     Console.WriteLine(auto);
@@ -47,6 +48,7 @@ _autoList.ForEach(delegate(Auto auto)
 
 _autoList.Sort();
 
+Console.WriteLine("\nSort List\n");
 _autoList.ForEach(delegate(Auto auto)
 {
     Console.WriteLine(auto);
