@@ -1,0 +1,15 @@
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\bin\Debug\net6.0\Animation.exe
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\bin\Debug\net6.0\Animation.deps.json
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\bin\Debug\net6.0\Animation.runtimeconfig.json
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\bin\Debug\net6.0\Animation.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\bin\Debug\net6.0\Animation.pdb
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\obj\Debug\net6.0\Animation.csproj.AssemblyReference.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\obj\Debug\net6.0\Animation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\obj\Debug\net6.0\Animation.AssemblyInfoInputs.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\obj\Debug\net6.0\Animation.AssemblyInfo.cs
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\obj\Debug\net6.0\Animation.csproj.CoreCompileInputs.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\obj\Debug\net6.0\Animation.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\obj\Debug\net6.0\refint\Animation.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\obj\Debug\net6.0\Animation.pdb
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\obj\Debug\net6.0\Animation.genruntimeconfig.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Erster Test\Animation\Animation\Animation\obj\Debug\net6.0\ref\Animation.dll
