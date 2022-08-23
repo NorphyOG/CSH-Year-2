@@ -9,7 +9,7 @@ List<Pool> pools = new List<Pool>();
 fileRead.ReadAllFiles(schulKlassen, pools);
 
 
-Console.WriteLine("-----------------------------------------");
+Console.WriteLine("------------------------------------------------");
 foreach (var vSchulKlass in schulKlassen)
 {
     Console.WriteLine(vSchulKlass);
@@ -19,14 +19,45 @@ foreach (var vSchulKlass in schulKlassen)
     {
         Console.WriteLine(vSchueler);
     }
-
+    
     Console.WriteLine("+++++++++++++++++++++++++++++++++++++++++++++++++\n");
 }
 
-Console.WriteLine("-----------------------------------------");
+
+Console.WriteLine("------------------------------------------------");
+
+foreach (var vPool in pools)
+{
+    foreach (var vSchulKlass in schulKlassen)
+    {
+        try
+        {
+            vPool.FillPool(vSchulKlass);
+            Console.WriteLine(vSchulKlass);
+            break;
+        }
+        catch (Exception e)
+        {
+        }
+    }
+}
+
 foreach (var vPool in pools)
 {
     Console.WriteLine(vPool);
+    
+    Console.WriteLine("+++++++++++++++++++++++++++++++++++++++++++++++++\n");
+
+    foreach (var vSchueler in vPool.SchuelerList)
+    {
+        Console.WriteLine(vSchueler);
+    }
+
+    Console.WriteLine("+++++++++++++++++++++++++++++++++++++++++++++++++\n");
+    
 }
+
+Console.WriteLine("------------------------------------------------");
+
 
 

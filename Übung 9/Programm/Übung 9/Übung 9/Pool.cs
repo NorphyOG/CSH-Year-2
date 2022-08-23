@@ -36,8 +36,47 @@ public class Pool
         }
     }
 
+    private List<Schueler> _schuelerList;
+
+    public List<Schueler> SchuelerList
+    {
+        get
+        {
+            return _schuelerList;
+        }
+        set
+        {
+            _schuelerList = value;
+        }
+    }
+    
     public override string ToString()
     {
-        return $"{nameof(Name)}: {Name}, {nameof(Platz)}: {Platz}";
+        return $"{nameof(Name)}: {Name}, {nameof(Platz)}: {Platz}, {nameof(SchuelerList)}: {SchuelerList}";
+    }
+
+
+    public void FillPool(SchulKlasse schulKlasse)
+    {
+        SchuelerList = new List<Schueler>();
+        if (schulKlasse.SchuelerList.Count <= Platz)
+        {
+            List<int> usedSchuler = new List<int>();
+            for (int i = 0; i < schulKlasse.SchuelerList.Count; i++)
+            {
+                Random random = new Random();
+                int num;
+                
+                do
+                { 
+                    num = random.Next(schulKlasse.SchuelerList.Count);
+                } while (usedSchuler.Contains(num));
+                
+                SchuelerList.Add(schulKlasse.SchuelerList.ElementAt(num));
+                usedSchuler.Add(num);
+            }
+            
+
+        }
     }
 }
