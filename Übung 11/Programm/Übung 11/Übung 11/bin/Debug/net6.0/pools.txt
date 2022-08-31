@@ -1,0 +1,6 @@
+//Pool, Anzahlplätze
+
+A07,30
+B03,25
+B06,30
+F03,15

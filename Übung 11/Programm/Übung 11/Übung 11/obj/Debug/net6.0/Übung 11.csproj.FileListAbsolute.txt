@@ -1,0 +1,15 @@
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\bin\Debug\net6.0\Übung 11.exe
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\bin\Debug\net6.0\Übung 11.deps.json
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\bin\Debug\net6.0\Übung 11.runtimeconfig.json
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\bin\Debug\net6.0\Übung 11.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\bin\Debug\net6.0\Übung 11.pdb
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\obj\Debug\net6.0\Übung 11.csproj.AssemblyReference.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\obj\Debug\net6.0\Übung 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\obj\Debug\net6.0\Übung 11.AssemblyInfoInputs.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\obj\Debug\net6.0\Übung 11.AssemblyInfo.cs
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\obj\Debug\net6.0\Übung 11.csproj.CoreCompileInputs.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\obj\Debug\net6.0\Übung 11.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\obj\Debug\net6.0\refint\Übung 11.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\obj\Debug\net6.0\Übung 11.pdb
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\obj\Debug\net6.0\Übung 11.genruntimeconfig.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 11\Programm\Übung 11\Übung 11\obj\Debug\net6.0\ref\Übung 11.dll
