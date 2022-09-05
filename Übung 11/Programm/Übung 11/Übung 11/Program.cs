@@ -57,7 +57,7 @@ foreach (var vPool in pools)
     int platzNum = 1;
     foreach (var vSchueler in vPool.SchuelerList)
     {
-        schueler += "[" + platzNum + "] " + vSchueler.Kennung + ":" + vSchueler.VorName + vSchueler.Nachname + " ";
+        schueler += "[" + platzNum + "] " + vSchueler.Kennung + ": 78m" + vSchueler.VorName + vSchueler.Nachname + " ";
         platzNum++;
     }
     

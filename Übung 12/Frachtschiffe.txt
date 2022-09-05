@@ -1,0 +1,21 @@
+//Name; Kapitänname; KapitänGeburtsdatum;MaximaleLadekapazität; AktuelleLademenge
+//Touren: Starthafen;Zielhafen;Startdatum;Zieldatum
+// evtl. weitere Tour
+
+Pioneering Spirit; Annalena Baerbock; 15.12.1980;1000;700
+Köln;Lübeck; 1.8.2022; 3.8.2022
+Lübeck;Köln; 3.8.2022; 5.8.2022
+Köln;Hamburg; 10.8.2022; 12.8.2022
+Hamburg;Köln; 13.8.2022; 15.8.2022
+
+MOL Triumpf; Olaf Scholz; 14.6.1958;2000;1300
+Hamburg;Passau; 31.8.2022; 2.9.2022
+Passau; Köln; 3.9.2022; 4.9.2022
+Köln;Passau; 4.9.2022;5.9.2022
+
+TI Europe; Robert Habeck;2.9.1969;1500; 400
+Trier; Würzburg; 20.8.2022; 25.8.2022
+Würzburg; Nürnberg; 25.8.2022; 26.8.2022
+Nürnberg; Lübeck;27.8.2022; 30.8.2022
+Lübeck;Bonn; 31.8.2022; 4.9.2022
+Bonn;Köln; 5.9.2022; 5.9.2022
