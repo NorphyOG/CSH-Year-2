@@ -1,0 +1,36 @@
+//Name; Kapitänname; KapitänGeburtsdatum; AnzahlPassagiere
+//Passagierliste
+//Starthafen der Tour;Zielhafen der Tour;Startdatum;Zieldatum
+// evtl. weitere Tour
+
+MS Kemmnade;Cem Özdemir; 15.12.1981;5
+Lieschen Müller;1.1.2000 
+Anton Schmitz;2.2.1922
+Anna Halt;3.3.2004
+August Sommer;5.4.1978
+Max Winter;15.8.1999
+Düsseldorf;Passau; 1.8.2022; 1.8.2022
+Passau; Koblenz; 4.8.2022; 5.8.2022
+Koblenz;Hamburg; 6.8.2022; 7.8.2022
+
+Rheinfels; Christian Lindner; 14.6.1958;4
+Hugo Schmitz;10.11.1990
+Tim Müller;15.6.1998
+Tom Meier;19.12.2005
+Max Meier;23.12.2001
+Hamburg;Passau; 31.8.2022; 1.9.2022
+Passau; Köln; 3.9.2022; 4.9.2022
+Köln;Passau; 4.9.2022; 5.9.2022
+
+Weisse Flotte; Angela Merkel;2.9.1950;6
+Hugo Frühling;14.12.2000
+Egon Herbst;1.1.1960
+Tom Wand;18.3.1995
+Sarah Tisch;23.11.1992
+Tim Tor;1.9.1950
+Britta Meier;24.12.2008
+Trier; Würzburg; 20.8.2022; 25.8.2022
+Würzburg; Nürnberg; 25.8.2022; 26.8.2022
+Nürnberg; Lübeck;27.8.2022; 30.8.2022
+Lübeck;Bonn; 31.8.2022; 4.9.2022
+Bonn;Köln; 5.9.2022; 5.9.2022
