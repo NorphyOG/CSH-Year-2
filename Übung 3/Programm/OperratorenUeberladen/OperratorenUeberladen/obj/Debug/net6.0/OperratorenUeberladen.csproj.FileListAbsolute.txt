@@ -1,0 +1,15 @@
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\bin\Debug\net6.0\OperratorenUeberladen.exe
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\bin\Debug\net6.0\OperratorenUeberladen.deps.json
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\bin\Debug\net6.0\OperratorenUeberladen.runtimeconfig.json
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\bin\Debug\net6.0\OperratorenUeberladen.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\bin\Debug\net6.0\OperratorenUeberladen.pdb
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\obj\Debug\net6.0\OperratorenUeberladen.csproj.AssemblyReference.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\obj\Debug\net6.0\OperratorenUeberladen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\obj\Debug\net6.0\OperratorenUeberladen.AssemblyInfoInputs.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\obj\Debug\net6.0\OperratorenUeberladen.AssemblyInfo.cs
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\obj\Debug\net6.0\OperratorenUeberladen.csproj.CoreCompileInputs.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\obj\Debug\net6.0\OperratorenUeberladen.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\obj\Debug\net6.0\refint\OperratorenUeberladen.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\obj\Debug\net6.0\OperratorenUeberladen.pdb
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\obj\Debug\net6.0\OperratorenUeberladen.genruntimeconfig.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\OperratorenUeberladen\OperratorenUeberladen\obj\Debug\net6.0\ref\OperratorenUeberladen.dll

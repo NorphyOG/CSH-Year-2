@@ -1,0 +1,15 @@
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\bin\Debug\net6.0\Übung 2 Operatoren Überladung.exe
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\bin\Debug\net6.0\Übung 2 Operatoren Überladung.deps.json
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\bin\Debug\net6.0\Übung 2 Operatoren Überladung.runtimeconfig.json
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\bin\Debug\net6.0\Übung 2 Operatoren Überladung.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\bin\Debug\net6.0\Übung 2 Operatoren Überladung.pdb
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\obj\Debug\net6.0\Übung 2 Operatoren Überladung.csproj.AssemblyReference.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\obj\Debug\net6.0\Übung 2 Operatoren Überladung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\obj\Debug\net6.0\Übung 2 Operatoren Überladung.AssemblyInfoInputs.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\obj\Debug\net6.0\Übung 2 Operatoren Überladung.AssemblyInfo.cs
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\obj\Debug\net6.0\Übung 2 Operatoren Überladung.csproj.CoreCompileInputs.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\obj\Debug\net6.0\Übung 2 Operatoren Überladung.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\obj\Debug\net6.0\refint\Übung 2 Operatoren Überladung.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\obj\Debug\net6.0\Übung 2 Operatoren Überladung.pdb
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\obj\Debug\net6.0\Übung 2 Operatoren Überladung.genruntimeconfig.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH\Übung 3\Programm\Übung 2 Operatoren Überladung\Übung 2 Operatoren Überladung\obj\Debug\net6.0\ref\Übung 2 Operatoren Überladung.dll
