@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Übung 13 Valeria", "Übung 13 Valeria\Übung 13 Valeria.csproj", "{51DB1B86-5360-4E78-8BFE-DE71DD3970B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51DB1B86-5360-4E78-8BFE-DE71DD3970B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DB1B86-5360-4E78-8BFE-DE71DD3970B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DB1B86-5360-4E78-8BFE-DE71DD3970B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DB1B86-5360-4E78-8BFE-DE71DD3970B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

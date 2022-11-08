@@ -1,0 +1,15 @@
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\bin\Debug\net6.0\Übung 13 Valeria.exe
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\bin\Debug\net6.0\Übung 13 Valeria.deps.json
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\bin\Debug\net6.0\Übung 13 Valeria.runtimeconfig.json
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\bin\Debug\net6.0\Übung 13 Valeria.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\bin\Debug\net6.0\Übung 13 Valeria.pdb
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\obj\Debug\net6.0\Übung 13 Valeria.csproj.AssemblyReference.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\obj\Debug\net6.0\Übung 13 Valeria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\obj\Debug\net6.0\Übung 13 Valeria.AssemblyInfoInputs.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\obj\Debug\net6.0\Übung 13 Valeria.AssemblyInfo.cs
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\obj\Debug\net6.0\Übung 13 Valeria.csproj.CoreCompileInputs.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\obj\Debug\net6.0\Übung 13 Valeria.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\obj\Debug\net6.0\refint\Übung 13 Valeria.dll
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\obj\Debug\net6.0\Übung 13 Valeria.pdb
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\obj\Debug\net6.0\Übung 13 Valeria.genruntimeconfig.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13 Valeria\Übung 13 Valeria\obj\Debug\net6.0\ref\Übung 13 Valeria.dll

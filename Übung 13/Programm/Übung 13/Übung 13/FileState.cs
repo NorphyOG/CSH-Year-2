@@ -101,8 +101,6 @@ namespace Übung_13
                 {
                     if (list[i] == null)
                     {
-                        
-                        
                         list[i] = "Vorname: " + vPerson.Vorname + " | Nachname: " + vPerson.Nachname + 
                                   " | Adresse: " +vPerson.Adresse + " | Tel: " +vPerson.KontaktlistPersons.Keys + 
                                   " | Art: " +vPerson.KontaktlistPersons.Values;

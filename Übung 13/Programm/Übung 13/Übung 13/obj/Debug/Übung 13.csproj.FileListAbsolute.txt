@@ -5,3 +5,10 @@ C:\Users\Jerome\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übun
 C:\Users\Jerome\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13\Übung 13\bin\Debug\Übung_13.pdb
 C:\Users\Jerome\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13\Übung 13\obj\Debug\Übung_13.exe
 C:\Users\Jerome\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13\Übung 13\obj\Debug\Übung_13.pdb
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13\Übung 13\bin\Debug\Übung_13.exe
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13\Übung 13\bin\Debug\Übung_13.pdb
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13\Übung 13\obj\Debug\Übung 13.csproj.AssemblyReference.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13\Übung 13\obj\Debug\Übung 13.csproj.SuggestedBindingRedirects.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13\Übung 13\obj\Debug\Übung 13.csproj.CoreCompileInputs.cache
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13\Übung 13\obj\Debug\Übung_13.exe
+C:\Users\jerom\OneDrive - bib & FHDW\Jahr02\CSH-Year-2\Übung 13\Programm\Übung 13\Übung 13\obj\Debug\Übung_13.pdb
