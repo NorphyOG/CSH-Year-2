@@ -2,4 +2,13 @@
 
 using Übung_15;
 
-Test test = new Test();
+    ElektronischesTelefonbuch fileState = new ElektronischesTelefonbuch();
+    Menu menu = new Menu();
+    menu.MenuOne(fileState.Persons, fileState);
+    
+    foreach (var vPerson in fileState.Persons)
+    {
+        Console.WriteLine(vPerson);
+    }
+
+
